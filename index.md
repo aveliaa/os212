@@ -3,7 +3,7 @@
 
 
 
-| HOME | [LINKS](links.md) | [LOG](TXT/mylog.txt) | [Github](https://github.com/agnesaudya) |
+| HOME | [LINKS](links.md) | [LOG](TXT/mylog.txt) | [Github](https://github.com/aveliaa) |
 
 Welcome to my github page :)
 
