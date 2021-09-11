@@ -5,7 +5,7 @@
 
 | HOME | [LINKS](links.md) | [LOG](TXT/mylog.txt) | [Github](https://github.com/agnesaudya) |
 
-This is my github page
+Welcome to my github page :)
 
 
 ## Assignment
