@@ -12,4 +12,6 @@ ZCZC W01 5 L11 Assignment #01 reviewing, DONE!
 ZCZC W01 5 L12 Assignment #02 exporting, DONE! note: overwritten past vbox
 ZCZC W01 210 L14  Assignment #04 found constraint at bash
 ZCZC W01 60 L14 Assignment #04 finished. DONE!
-ZCZC W01 45 L15 Assignment #5, DONE!
+ZCZC W01 45 L15 Assignment #05, DONE!
+ZCZC W01 30 L17 Assignment #07,DONE!
+ZCZC W01 60 L16 Researching
