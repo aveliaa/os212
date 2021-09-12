@@ -1,7 +1,8 @@
 
-| HOME (index.md) | [LOG](TXT/mylog.txt) | [Github](https://github.com/aveliaa) |  [LINKS] |
-
+----
+layout: "layout"
 permalink: /LINKS/
+----
 
 1. [Explain OS to a child](https://www.quora.com/How-do-I-explain-what-an-operating-system-is-to-a-child)<br>
 How to understand OS in a simple way.
