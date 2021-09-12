@@ -6,13 +6,19 @@ ZCZC W00 10 L03 GitHub related
 ZCZC W00 100 L02 Operating System class with Mr.Samik-Ibrahim
 ZCZC W00 30 L04 Fixing and finishing github page
 ZCZC W00 120 L06 Reading Operating System Concepts Tenth Edition - Ch.1
+
 ZCZC W01 100 L02 Operating System class with Mr.Samik-Ibrahim
 ZCZC W01 90 L12 Assignment #02 setting virtual box, login, figuring out the errors, gsgs
 ZCZC W01 5 L11 Assignment #01 reviewing, DONE!
 ZCZC W01 5 L12 Assignment #02 exporting, DONE! note: overwritten past vbox
 ZCZC W01 210 L14  Assignment #04 found constraint at bash
-ZCZC W01 60 L14 Assignment #04 finished. DONE!
+ZCZC W01 60 L14 Assignment #04, DONE!
 ZCZC W01 45 L15 Assignment #05, DONE!
 ZCZC W01 30 L17 Assignment #07,DONE!
 ZCZC W01 60 L16 Researching
 ZCZC W01 60 L16 Assignment done, but needs adjustment
+ZCZC W01 15 L16 Assignment #06, DONE!
+ZCZC W01 50 L13 Assignment #03, DONE!
+ZCZC W01 40 L18 Assignment #08, DONE!
+ZCZC W01 150 L19 Assignment #09, DONE!
+ZCZC W01 5 L09 Reviewing assignments, all done :)
