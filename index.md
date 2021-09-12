@@ -3,14 +3,5 @@
 
 
 
-| HOME | [LINKS](links.md) | [LOG](TXT/mylog.txt) | [Github](https://github.com/aveliaa) |
+| HOME | [LOG](TXT/mylog.txt) | [Github](https://github.com/aveliaa) | [LINKS] (links.md) |
 
-Welcome to my github page :)
-
-
-## Assignment
-
-1. Week 0
-2. Week 1
-3. Week 2
-4. Week 4
