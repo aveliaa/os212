@@ -15,3 +15,4 @@ ZCZC W01 60 L14 Assignment #04 finished. DONE!
 ZCZC W01 45 L15 Assignment #05, DONE!
 ZCZC W01 30 L17 Assignment #07,DONE!
 ZCZC W01 60 L16 Researching
+ZCZC W01 60 L16 Assignment done, but needs adjustment
