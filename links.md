@@ -1,9 +1,4 @@
 
----
-layout: "layout"
-permalink: /LINKS/
----
-
 # LINKS
 
 1. [Explain OS to a child](https://www.quora.com/How-do-I-explain-what-an-operating-system-is-to-a-child)<br>
