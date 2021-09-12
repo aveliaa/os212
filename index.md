@@ -3,5 +3,5 @@
 
 
 
-| HOME | [LOG](TXT/mylog.txt) | [Github](https://github.com/aveliaa) | [LINKS] (links.md) |
+| HOME | [LOG](TXT/mylog.txt) | [Github](https://github.com/aveliaa) | [LINKS](links.md) |
 
