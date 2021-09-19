@@ -23,5 +23,15 @@ ZCZC W01 150 L19 Assignment #09, DONE!
 ZCZC W01 5 L09 Reviewing assignments, all done :)
 ZCZC W02 100 L02 Operating System class with Mr.Samik-Ibrahim
 ZCZC W02 60 L26 Learning C language
-ZCZC W02 60 #2 Trying Demos,#4 Generate key,#5 List keys,#6 Import,#7 Signing,#8Export DONE!
-ZCZC W02 60 #9 Update links,#10 Review peer,#12 log, DONE! (#1,#3,#11,#13 left)
+ZCZC W02 60 L11 Reading Assignment, DONE!
+ZCZC W02 15 L12 Trying DEMOS, DONE!
+ZCZC W02 180 L13 Videos, DONE!
+ZCZC W02 15 L14 Generated, DONE!
+ZCZC W02 15 L15 Listed, DONE!
+ZCZC W02 3 L16 Imported, DONE!
+ZCZC W02 3 L17 Signed, DONE!
+ZCZC W02 5 L18 Exported, DONE!
+ZCZC W02 30 L19 Updated, DONE!
+ZCZC W02 30 L20 Reviewed, DONE!
+ZCZC W02 30 L09 11 and 13, DONE!
+ZCZC W02 5 L09 Updating log.. DONE!
