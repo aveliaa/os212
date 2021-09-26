@@ -4,6 +4,8 @@ permalink: /LINKS/
 
 # LINKS
 
+###### WEEK 00
+
 1. [Explain OS to a child](https://www.quora.com/How-do-I-explain-what-an-operating-system-is-to-a-child)<br>
 How to understand OS in a simple way.<br>
 It's amusing and funny to see the examples and how it relates to a child.
@@ -12,9 +14,13 @@ It's amusing and funny to see the examples and how it relates to a child.
 Operating System study guide from Kansas State polytechnic.<br>
 Every sub chapter is short and can easly be understood. (and i like purple)
 
+###### WEEK 01
+
 3. [Learn C Programming](https://www.programiz.com/c-programming)<br>
 Website with step-by-step guide to learn C programming.<br>
 To-the-point, nice ux and ui. Good for speedrunning C programming.
+
+###### WEEK 02
 
 4. [Git Push Pull](https://osp4diss.vlsm.org/osp-114.html)<br>
 osp4diss guide about 4 important git words.<br>
@@ -24,4 +30,12 @@ Personally really handy for me, i oftenly forgot how to push.
 Vim Guide, filled with verbs, modifiers, etc.<br>
 I use Vim. This website is handy when i forgot what to type.
 
+###### WEEK 03
 
+6. [Public Key](https://osp4diss.vlsm.org/W02-06.html)<br>
+How to use public key.<br>
+As a reminder to update my keys.
+
+7. [Bash](https://www.educative.io/blog/bash-shell-command-cheat-sheet)<br>
+Bash shell commands cheat sheet.<br>
+Oftenly used commands is listed there.

@@ -35,3 +35,13 @@ ZCZC W02 30 L19 Updated, DONE!
 ZCZC W02 30 L20 Reviewed, DONE!
 ZCZC W02 30 L09 11 and 13, DONE!
 ZCZC W02 5 L09 Updating log.. DONE!
+ZCZC W03 100 L02 OS Class
+ZCZC W03 120 L15, Created Virtual Disk, DONE!
+ZCZC W03 10 L14, Checked bash
+ZCZC W03 60 L12, Tried Files and FUSE
+ZCZC W03 10 L16, Updated links
+ZCZC W03 90 L11, Read chap 13,14,15
+ZCZC W03 20 L17, Reviewed peers
+ZCZC W03 20 L13, Tried midterm
+ZCZC W03 10 L18, Updating log..
+ZCZC W03 10 L19, Submitting Assignment..
