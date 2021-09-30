@@ -39,3 +39,9 @@ As a reminder to update my keys.
 7. [Bash](https://www.educative.io/blog/bash-shell-command-cheat-sheet)<br>
 Bash shell commands cheat sheet.<br>
 Oftenly used commands is listed there.
+
+###### WEEK 04
+
+8. [More C language](https://www.codewithharry.com/blogpost/c-cheatsheet)<br>
+C Language cheatsheet.<br>
+This is really handy, pst. CTRL + F.

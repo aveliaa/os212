@@ -45,3 +45,12 @@ ZCZC W03 20 L17, Reviewed peers
 ZCZC W03 20 L13, Tried midterm
 ZCZC W03 10 L18, Updating log..
 ZCZC W03 10 L19, Submitting Assignment..
+ZCZC W04 3 L14 Installed!
+ZCZC W04 15 L15 Step 5, DONE!
+ZCZC W04 45 L11 Read chapter 9
+ZCZC W04 30 L12 Tried Demos
+ZCZC W04 35 L13 Tried The problem. It was pretty intimidating.
+ZCZC W04 15 L16 Updated. Unfortunately i only found one for now.
+ZCZC W04 40 L17 Reviewed.
+ZCZC W04 10 L18 Updating and checking..
+ZCZC W04 5 L19 Submitting..
