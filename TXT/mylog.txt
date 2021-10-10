@@ -54,3 +54,12 @@ ZCZC W04 15 L16 Updated. Unfortunately i only found one for now.
 ZCZC W04 40 L17 Reviewed.
 ZCZC W04 10 L18 Updating and checking..
 ZCZC W04 5 L19 Submitting..
+ZCZC W05 100 L02 OS Class
+ZCZC W05 45 L11 Read chapter 10
+ZCZC W05 15 L12 Tried Demos
+ZCZC W05 15 L13 Tried MidTerm Problems
+ZCZC W05 120 L14 Modified memory
+ZCZC W05 10 L15 Added one link
+ZCZC W05 20 L17 Reviewed
+ZCZC W05 15 L18 Updating..
+ZCZC W05 5 L19 Submitting.. 

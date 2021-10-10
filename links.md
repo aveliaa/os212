@@ -45,3 +45,8 @@ Oftenly used commands is listed there.
 8. [More C language](https://www.codewithharry.com/blogpost/c-cheatsheet)<br>
 C Language cheatsheet.<br>
 This is really handy, pst. CTRL + F.
+
+###### WEEK 05
+9. [THE Book](http://edclap.com/mod/resource/view.php?id=1445&forceview=1)<br>
+Operating System Concepts 10th Edition – Silberschatz, Galvin, Gagne.<br>
+The textbook we use.
