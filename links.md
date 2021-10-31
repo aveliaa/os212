@@ -50,3 +50,8 @@ This is really handy, pst. CTRL + F.
 9. [THE Book](http://edclap.com/mod/resource/view.php?id=1445&forceview=1)<br>
 Operating System Concepts 10th Edition – Silberschatz, Galvin, Gagne.<br>
 The textbook we use.
+
+###### WEEK 06
+10. [Fork()](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Explanation for fork().<br>
+Simple, easier to understand.

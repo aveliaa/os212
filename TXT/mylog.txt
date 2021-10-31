@@ -62,4 +62,13 @@ ZCZC W05 120 L14 Modified memory
 ZCZC W05 10 L15 Added one link
 ZCZC W05 20 L17 Reviewed
 ZCZC W05 15 L18 Updating..
-ZCZC W05 5 L19 Submitting.. 
+ZCZC W05 5 L19 Submitting..
+ZCZC W06 30 L11 read chapter 3 and 4 
+ZCZC W06 100 L02 Operating System class with Mr.Anwar
+ZCZC W06 30 L12 tried demos
+ZCZC W06 15 L13 tried midterm problems
+ZCZC W06 40 L14 tried step a to d
+ZCZC W06 10 L15 Updated links
+ZCZC W06 30 L17 Reviewed links
+ZCZC W06 10 L18 updating log
+ZCZC W06 10 L19 submitting..
