@@ -72,3 +72,12 @@ ZCZC W06 10 L15 Updated links
 ZCZC W06 30 L17 Reviewed links
 ZCZC W06 10 L18 updating log
 ZCZC W06 10 L19 submitting..
+ZCZC W07 120 L02 Operating System class with Mr.Anwar
+ZCZC W07 60 L11 Read chapter 6,7,8
+ZCZC W07 10 L12 Tried Demos
+ZCZC W07 8 L13 Tried MidTerm Problems
+ZCZC W07 40 L14 Tried step a to e
+ZCZC W07 20 L15 Updated Links
+ZCZC W07 15 L17 Reviewed
+ZCZC W07 10 L18 Updating..
+ZCZC W07 5 L19 Submitting..

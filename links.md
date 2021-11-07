@@ -55,3 +55,12 @@ The textbook we use.
 10. [Fork()](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Explanation for fork().<br>
 Simple, easier to understand.
+
+###### WEEK 07
+11. [Threads?](https://www.w3schools.in/operating-system-tutorial/threads/)<br
+Information about thread.<br>
+Good for basic understanding of thread.
+
+12. [Semaphores?](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+Things you'll need to know about semaphore.<br>
+Nicely explained.
