@@ -81,3 +81,12 @@ ZCZC W07 20 L15 Updated Links
 ZCZC W07 15 L17 Reviewed
 ZCZC W07 10 L18 Updating..
 ZCZC W07 5 L19 Submitting..
+ZCZC W08 30 L11 read chapter 5
+ZCZC W08 10 L12 tried demos
+ZCZC W08 10 L13 tried finals problems
+ZCZC W08 60 L14 finished chap 1-4
+ZCZC W08 300 L15 finished chap 5
+ZCZC W08 5 L16 updated links
+ZCZC W08 15 L18 reviewed links
+ZCZC W08 5 updating..
+ZCZC W08 5 submitting..

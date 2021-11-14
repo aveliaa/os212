@@ -64,3 +64,9 @@ Good for basic understanding of thread.
 12. [Semaphores?](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
 Things you'll need to know about semaphore.<br>
 Nicely explained.
+
+###### WEEK 08
+13. [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Guide for building linux from scratch.<br>
+Very helpful and explain errors.
+
