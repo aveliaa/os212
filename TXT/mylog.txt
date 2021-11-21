@@ -90,3 +90,12 @@ ZCZC W08 5 L16 updated links
 ZCZC W08 15 L18 reviewed links
 ZCZC W08 5 updating..
 ZCZC W08 5 submitting..
+ZCZC W09 100 L02 Operating System class with Mr.Anwar
+ZCZC W09 10 L11 read chap 11
+ZCZC W09 5 L12 Demos
+ZCZC W09 10 L13 Tried midterm problems
+ZCZC W09 420 L14 Continued chap 6 to 7
+ZCZC W09 10 L15 Updated links
+ZCZC W09 15 L17 Reviewed
+ZCZC W09 10 L18 Updating..
+ZCZC W09 5 L19 submitting..

@@ -68,5 +68,10 @@ Nicely explained.
 ###### WEEK 08
 13. [Linux from Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
 Guide for building linux from scratch.<br>
-Very helpful and explain errors.
+Very helpful and explain errors.<br>
+
+###### WEEK 09
+14. [RAID](https://www.prepressure.com/library/technology/raid)<br>
+More on this week's topic.<br>
+It is not that difficult to read.<br>
 
