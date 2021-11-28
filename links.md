@@ -75,3 +75,8 @@ Very helpful and explain errors.<br>
 More on this week's topic.<br>
 It is not that difficult to read.<br>
 
+###### WEEK 10
+15.[Inside Linux](https://developer.ibm.com/tutorials/l-linux-filesystem/)<br>
+An explanation about the anatomy of linux file system.<br>
+It breaks down the topic nicely.<br>
+

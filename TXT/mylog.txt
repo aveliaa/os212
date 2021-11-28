@@ -99,3 +99,11 @@ ZCZC W09 10 L15 Updated links
 ZCZC W09 15 L17 Reviewed
 ZCZC W09 10 L18 Updating..
 ZCZC W09 5 L19 submitting..
+ZCZC W10 10 L11 Read chapter 12
+ZCZC W10 8 L12 Tried demos
+ZCZC W10 10 L13 Tried term exams
+ZCZC W10 780 L14 Chapter 7 and 8 completed
+ZCZC W10 15 L15 Links updated
+ZCZC W10 15 L17 Reviewed links
+ZCZC W10 10 L18 Updating...
+ZCZC W10 5 L19 Submitting...
